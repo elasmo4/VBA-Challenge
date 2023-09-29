@@ -3,7 +3,7 @@
 
 > Screenshot of results can be found below or under "Images" folder and selecting the "VBA_Analysis_Solution_README.JPG" file
 > 
-> VBA script file can be found under "Resources" folder
+> VBA script file can be found under "Resources" folder and selecting the "Multiple_year_stock_data_macro.bas" file
 
 <h5>Code source:</h5>
 
