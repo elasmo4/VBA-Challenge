@@ -1,4 +1,4 @@
-<h2>VBA-Challenge</h2>
+<h3>VBA-Challenge</h3>
 <h5>Code location:</h5>
 
 > Screenshot of results can be found below or under "Images" folder and selecting the "VBA_Analysis_Solution_README.JPG" file
