@@ -1,7 +1,7 @@
 # VBA-Challenge
 <h5>Code location:</h5>
 
-> Screenshot of results can be found under "Images" folder
+> Screenshot of results can be found below or under "Images" folder
 > 
 > VBA script file can be found under "Resources" folder
 
