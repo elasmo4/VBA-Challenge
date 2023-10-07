@@ -14,7 +14,7 @@
 
 <h5>Contact:</h5>
 
-If there are any questions of concerns, I can be reached at:
+If there are any questions or concerns, I can be reached at:
 > [github: elasmo4](https://github.com/elasmo4)
 >
 > [email: tasha.christensen44@gmail.com](mailto:tasha.christensen44@gmail.com)
