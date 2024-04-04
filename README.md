@@ -6,7 +6,7 @@
 > VBA script file can be found under "Resources" folder and selecting the "Multiple_year_stock_data_macro.bas" file.
 > 
 
-<h5>Modules Used:</h5>
+<h5>Modules used:</h5>
 
 > VBA
 >
